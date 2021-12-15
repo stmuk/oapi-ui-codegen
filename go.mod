@@ -1,4 +1,4 @@
-module github.com/pseudo-su/oapi-ui-codegen
+module github.com/stmuk/oapi-ui-codegen
 
 require (
 	github.com/bradleyjkemp/cupaloy/v2 v2.5.0
